@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "BOOK STORE",
+  "base_artist": "くじら",
+  "createdAt": "2026-02-16T22:17:19.442848Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Book store - Feat. BewhY KR Ver.",
+      "artist": "MINO feat. BewhY",
+      "has_synced": true,
+      "path": "select/01_Book_store_-_Feat._BewhY_KR_Ver._MINO_feat._BewhY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Book store (feat. BewhY)",
+      "artist": "MINO",
+      "has_synced": true,
+      "path": "select/02_Book_store_(feat._BewhY)_MINO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Book Store",
+      "artist": "MINO feat. BewhY",
+      "has_synced": true,
+      "path": "select/03_Book_Store_MINO_feat._BewhY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Book Store",
+      "artist": "MINO",
+      "has_synced": true,
+      "path": "select/04_Book_Store_MINO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BOOK STORE",
+      "artist": "whaledontsleep",
+      "has_synced": true,
+      "path": "select/05_BOOK_STORE_whaledontsleep.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BOOK STORE",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_BOOK_STORE_くじら.txt"
+    }
+  ]
+}
