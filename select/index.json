@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "BOOK STORE",
   "base_artist": "くじら",
-  "createdAt": "2026-02-16T22:17:19.442848Z",
+  "createdAt": "2026-03-15T13:33:50.600994Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,14 @@
       "artist": "whaledontsleep",
       "has_synced": true,
       "path": "select/05_BOOK_STORE_whaledontsleep.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BOOK STORE (feat. higa)",
+      "artist": "whaledontsleep",
+      "has_synced": true,
+      "path": "select/06_BOOK_STORE_(feat._higa)_whaledontsleep.lrc"
     },
     {
       "id": "petitlyrics_1",
